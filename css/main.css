@@ -47,3 +47,11 @@ a img {
   border: none;
 }
 /* END RESET*/
+
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: slategray;
+}
